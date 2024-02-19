@@ -1,5 +1,3 @@
 # Index
 
-This is the index
-
-###### An example of heading 6
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
